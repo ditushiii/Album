@@ -1,0 +1,54 @@
+.test1 {
+    color: aqua;
+}
+
+.custom-container {
+    max-width: 90% !important;
+}
+
+.row-footer {
+    padding: 3em;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.row-header {
+    padding: 3em;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    padding: 3em;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 3em;
+    background-color: rgb(9, 9, 114);
+    color: white;
+    text-align: center;
+}
+
+.para1 {
+    text-align: justify;
+}
+.light-green-style{
+    background-color: lightgreen;
+    padding: 7em;
+}
+.dark-green-style{
+    background-color: darkgreen;
+    padding: 7em;
+}
+.green-style{
+    background-color: #12c112;
+    padding: 7em;
+}
+.white-style{
+    background-color: whitesmoke;
+}
